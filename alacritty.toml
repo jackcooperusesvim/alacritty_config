@@ -1,0 +1,17 @@
+import = [
+  "~/.config/alacritty/themes/themes/vesper.toml"
+]
+
+[window]
+decorations = "Transparent"
+opacity = 0.6
+
+  [window.padding]
+  x = 0
+  y = 25
+
+[font]
+size = 16
+
+  [font.normal]
+  family = "GoMono Nerd Font"
